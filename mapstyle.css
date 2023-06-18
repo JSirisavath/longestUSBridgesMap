@@ -1,0 +1,15 @@
+#bridge-map {
+  width: 600px;
+  height: 500px;
+  border: 1px green solid;
+  background-color: lightskyblue;
+}
+
+body {
+  background-color: azure;
+}
+
+h1 {
+  border: 2rem solid salmon;
+  text-align: center;
+}
